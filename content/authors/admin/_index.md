@@ -27,21 +27,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Screen Addiction
+  - Game Addiction
+  - Smartphone and social media
+ 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD/Ma Clinical Neuropsychology
+      institution: Macquarie University
+      year: 2020-Present
+    - course: Honour of Science (Psychology)
+      institution: University of Sydney
+      year: 2019
+    - course: BSc in Psychology
+      institution: The University of Melbourne
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate and Psychologist at the Macquarie University. My research focuses on the neuropsychological implications of disordered and problematic screen usage, with a specific focus on gaming behaviours. My research also aims to develop effective strategies for mitigating the negative effects of disordered screen use on the brain, including innovative approaches to prevention and intervention.
 {style="text-align: justify;"}
