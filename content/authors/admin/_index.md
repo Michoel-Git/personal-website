@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CLinical Neuropsychology PhD Candidate
+role: Clinical Neuropsychology PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
