@@ -81,5 +81,7 @@ email: ''
 highlight_name: true
 ---
 
+Hello! My name is Michoel, but I sometimes go by Mic. 
+
 I am a PhD Candidate and Psychologist at the Macquarie University. My research focuses on the neuropsychological implications of disordered and problematic screen usage, with a specific focus on gaming behaviours. My research also aims to develop effective strategies for mitigating the negative effects of disordered screen use on the brain, including innovative approaches to prevention and intervention.
 {style="text-align: justify;"}
