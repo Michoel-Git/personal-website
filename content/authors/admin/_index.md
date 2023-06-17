@@ -52,8 +52,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
- - icon: google-scholar 
-    icon_pack: ai
+ - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=JSE6pAkAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
